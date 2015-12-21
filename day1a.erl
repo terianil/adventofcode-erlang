@@ -1,4 +1,4 @@
--module(day1).
+-module(day1a).
 -export([main/1]).
 -mode(compile).
 
